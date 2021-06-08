@@ -45,7 +45,11 @@
   <build_depend>rosmon_msgs</build_depend>
   <build_depend>roswasm</build_depend>
   <build_depend>roswasm_webgui</build_depend>
-  <!-- <build_depend>rosmon_msgs</build_depend> -->
+  <build_depend>cola2_msgs</build_depend>
+  <build_depend>sbg_driver</build_depend>
+  <build_depend>rosgraph_msgs</build_depend>
+  <build_depend>uavcan_ros_msgs</build_depend>
+<!-- <build_depend>rosmon_msgs</build_depend> -->
   <exec_depend>roscpp</exec_depend>
   <exec_depend>roswasm</exec_depend>
   <exec_depend>roswasm_webgui</exec_depend>
